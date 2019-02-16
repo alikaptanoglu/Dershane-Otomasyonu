@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="projeModelStoreContainer" CdmEntityContainer="projeEntities3">
+    <FunctionImportMapping FunctionImportName="SP_Ogrenci_Deneme_Ara" FunctionName="projeModel.Store.SP_Ogrenci_Deneme_Ara">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="projeModel.SP_Ogrenci_Deneme_Ara_Result">
+          <ScalarProperty Name="Öğrenci_Numarası" ColumnName="Öğrenci_Numarası" />
+          <ScalarProperty Name="İsmi" ColumnName="İsmi" />
+          <ScalarProperty Name="Soyismi" ColumnName="Soyismi" />
+          <ScalarProperty Name="Alanı" ColumnName="Alanı" />
+          <ScalarProperty Name="Türkçe_Net" ColumnName="Türkçe_Net" />
+          <ScalarProperty Name="Sosyal_Net" ColumnName="Sosyal_Net" />
+          <ScalarProperty Name="Matematik_Net" ColumnName="Matematik_Net" />
+          <ScalarProperty Name="Fen_Net" ColumnName="Fen_Net" />
+          <ScalarProperty Name="YGS_1" ColumnName="YGS_1" />
+          <ScalarProperty Name="YGS_2" ColumnName="YGS_2" />
+          <ScalarProperty Name="YGS_3" ColumnName="YGS_3" />
+          <ScalarProperty Name="YGS_4" ColumnName="YGS_4" />
+          <ScalarProperty Name="YGS_5" ColumnName="YGS_5" />
+          <ScalarProperty Name="YGS_6" ColumnName="YGS_6" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

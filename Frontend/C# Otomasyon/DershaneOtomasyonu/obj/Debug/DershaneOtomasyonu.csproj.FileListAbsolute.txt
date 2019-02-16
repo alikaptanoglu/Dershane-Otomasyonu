@@ -1,0 +1,177 @@
+C:\Users\abdul\Documents\Visual Studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.exe.config
+C:\Users\abdul\Documents\Visual Studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.exe
+C:\Users\abdul\Documents\Visual Studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.pdb
+C:\Users\abdul\Documents\Visual Studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\abdul\Documents\Visual Studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.Form1.resources
+C:\Users\abdul\Documents\Visual Studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.Properties.Resources.resources
+C:\Users\abdul\Documents\Visual Studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\abdul\Documents\Visual Studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Documents\Visual Studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.exe
+C:\Users\abdul\Documents\Visual Studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.pdb
+C:\Users\abdul\Documents\Visual Studio 2017\Projects\DershaneOtomasyonu\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.YonetimPaneli.resources
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.exe.config
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.exe
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.pdb
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.Form1.resources
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.Properties.Resources.resources
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.YonetimPaneli.resources
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.exe
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.pdb
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\EnvDTE.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\stdole.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hamza TAŞ\Desktop\VTYS\Otomasyon\DershaneOtomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.exe.config
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.exe
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.pdb
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.exe
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.pdb
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.Form1.resources
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.Properties.Resources.resources
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.YonetimPaneli.resources
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csproj.DershaneOtomasyonu.exe.config
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.RaporForm.resources
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\obj\Debug\RdlCompile.cache
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\obj\Debug\RdlCompile.compiled
+C:\Users\erdem\Desktop\Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\erdem\Desktop\C# Otomasyon\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.exe.config
+C:\Users\erdem\Desktop\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.exe
+C:\Users\erdem\Desktop\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.pdb
+C:\Users\erdem\Desktop\Grup 14\C# Otomasyon\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.exe.config
+C:\Users\erdem\Desktop\Grup 14\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.exe
+C:\Users\erdem\Desktop\Grup 14\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.pdb
+C:\Users\erdem\Desktop\Grup 14\C# Otomasyon\DershaneOtomasyonu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\erdem\Desktop\Grup 14\C# Otomasyon\DershaneOtomasyonu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\erdem\Desktop\Grup 14\C# Otomasyon\DershaneOtomasyonu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\erdem\Desktop\Grup 14\C# Otomasyon\DershaneOtomasyonu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\erdem\Desktop\Grup 14\C# Otomasyon\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.exe
+C:\Users\erdem\Desktop\Grup 14\C# Otomasyon\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.pdb
+C:\Users\erdem\Desktop\Grup 14\C# Otomasyon\DershaneOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\erdem\Desktop\Grup 14\C# Otomasyon\DershaneOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erdem\Desktop\Grup 14\C# Otomasyon\DershaneOtomasyonu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\erdem\Desktop\Grup 14\C# Otomasyon\DershaneOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\erdem\Desktop\Grup 14\C# Otomasyon\DershaneOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erdem\Desktop\Grup 14\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\erdem\Desktop\Grup 14\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.Form1.resources
+C:\Users\erdem\Desktop\Grup 14\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.Properties.Resources.resources
+C:\Users\erdem\Desktop\Grup 14\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.RaporForm.resources
+C:\Users\erdem\Desktop\Grup 14\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.YonetimPaneli.resources
+C:\Users\erdem\Desktop\Grup 14\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\erdem\Desktop\Grup 14\C# Otomasyon\DershaneOtomasyonu\obj\Debug\RdlCompile.cache
+C:\Users\erdem\Desktop\Grup 14\C# Otomasyon\DershaneOtomasyonu\obj\Debug\RdlCompile.compiled
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.exe.config
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.exe
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.pdb
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.exe
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.pdb
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csproj.DershaneOtomasyonu.exe.config
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.Form1.resources
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.Properties.Resources.resources
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.RaporForm.resources
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.YonetimPaneli.resources
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\obj\Debug\RdlCompile.cache
+C:\Users\erdem\Desktop\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\obj\Debug\RdlCompile.compiled
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.exe.config
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.exe
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.pdb
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.exe
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\DershaneOtomasyonu.pdb
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.Form1.resources
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.Properties.Resources.resources
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.RaporForm.resources
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.YonetimPaneli.resources
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\obj\Debug\RdlCompile.cache
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\obj\Debug\RdlCompile.compiled
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\erdem\Desktop\5.dönem\Veri Tabanı Yönetim Sistemleri\PROJE\Grup 14 NÖ\C# Otomasyon\DershaneOtomasyonu\obj\Debug\DershaneOtomasyonu.csproj.DershaneOtomasyonu.exe.config

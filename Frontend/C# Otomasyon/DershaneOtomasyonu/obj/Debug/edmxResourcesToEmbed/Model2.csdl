@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="projeModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="projeEntities4" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="SP_Ogretmen_Ara" ReturnType="Collection(projeModel1.SP_Ogretmen_Ara_Result)">
+      <Parameter Name="kelime" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="SP_Ogretmen_Ara_Result">
+    <Property Type="Int32" Name="Sıra" Nullable="false" />
+    <Property Type="String" Name="İsim" Nullable="false" MaxLength="30" />
+    <Property Type="String" Name="Soyisim" Nullable="false" MaxLength="30" />
+    <Property Type="String" Name="Telefon" Nullable="true" MaxLength="10" />
+    <Property Type="Int32" Name="Maaş" Nullable="false" />
+    <Property Type="String" Name="TC" Nullable="true" MaxLength="11" />
+    <Property Type="DateTime" Name="Kayıt_Tarihi" Nullable="true" />
+  </ComplexType>
+</Schema>

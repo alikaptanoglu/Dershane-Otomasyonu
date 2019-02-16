@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="projeModel2.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <Function Name="SP_Ogrenci_Ara" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="kelime" Type="nvarchar" Mode="In" />
+        </Function>
+        <EntityContainer Name="projeModel2StoreContainer" />
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="projeModel2" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="projeEntities5" annotation:LazyLoadingEnabled="true" >
+          <FunctionImport Name="SP_Ogrenci_Ara" ReturnType="Collection(projeModel2.SP_Ogrenci_Ara_Result)">
+            <Parameter Name="kelime" Mode="In" Type="String" />
+          </FunctionImport>
+        </EntityContainer>
+        <ComplexType Name="SP_Ogrenci_Ara_Result">
+          <Property Type="Int32" Name="Öğrenci_Numarası" Nullable="false" />
+          <Property Type="String" Name="Öğrenci_İsmi" Nullable="true" MaxLength="20" />
+          <Property Type="String" Name="Öğrenci_Soyadı" Nullable="true" MaxLength="20" />
+          <Property Type="String" Name="Seviye" Nullable="true" MaxLength="2" />
+          <Property Type="String" Name="Sınıf" Nullable="true" MaxLength="1" />
+          <Property Type="String" Name="Alanı" Nullable="true" MaxLength="3" />
+          <Property Type="String" Name="Öğrenci_TC" Nullable="false" MaxLength="11" />
+          <Property Type="String" Name="Öğrenci_Telefon" Nullable="true" MaxLength="10" />
+          <Property Type="String" Name="Öğrenci_Adres" Nullable="false" MaxLength="50" />
+          <Property Type="String" Name="Okulu" Nullable="false" MaxLength="30" />
+          <Property Type="DateTime" Name="Kayıt_Tarihi" Nullable="true" />
+          <Property Type="DateTime" Name="Doğum_Tarihi" Nullable="false" />
+          <Property Type="Int32" Name="Alınan_Ücret" Nullable="true" />
+          <Property Type="String" Name="Veli_İsmi" Nullable="false" MaxLength="30" />
+          <Property Type="String" Name="Veli_Soyismi" Nullable="false" MaxLength="30" />
+          <Property Type="String" Name="Veli_TC" Nullable="true" MaxLength="11" />
+          <Property Type="String" Name="Veli_Telefon" Nullable="true" MaxLength="10" />
+        </ComplexType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="projeModel2StoreContainer" CdmEntityContainer="projeEntities5" >
+          <FunctionImportMapping FunctionImportName="SP_Ogrenci_Ara" FunctionName="projeModel2.Store.SP_Ogrenci_Ara">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="projeModel2.SP_Ogrenci_Ara_Result">
+                <ScalarProperty Name="Öğrenci_Numarası" ColumnName="Öğrenci_Numarası" />
+                <ScalarProperty Name="Öğrenci_İsmi" ColumnName="Öğrenci_İsmi" />
+                <ScalarProperty Name="Öğrenci_Soyadı" ColumnName="Öğrenci_Soyadı" />
+                <ScalarProperty Name="Seviye" ColumnName="Seviye" />
+                <ScalarProperty Name="Sınıf" ColumnName="Sınıf" />
+                <ScalarProperty Name="Alanı" ColumnName="Alanı" />
+                <ScalarProperty Name="Öğrenci_TC" ColumnName="Öğrenci_TC" />
+                <ScalarProperty Name="Öğrenci_Telefon" ColumnName="Öğrenci_Telefon" />
+                <ScalarProperty Name="Öğrenci_Adres" ColumnName="Öğrenci_Adres" />
+                <ScalarProperty Name="Okulu" ColumnName="Okulu" />
+                <ScalarProperty Name="Kayıt_Tarihi" ColumnName="Kayıt_Tarihi" />
+                <ScalarProperty Name="Doğum_Tarihi" ColumnName="Doğum_Tarihi" />
+                <ScalarProperty Name="Alınan_Ücret" ColumnName="Alınan_Ücret" />
+                <ScalarProperty Name="Veli_İsmi" ColumnName="Veli_İsmi" />
+                <ScalarProperty Name="Veli_Soyismi" ColumnName="Veli_Soyismi" />
+                <ScalarProperty Name="Veli_TC" ColumnName="Veli_TC" />
+                <ScalarProperty Name="Veli_Telefon" ColumnName="Veli_Telefon" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

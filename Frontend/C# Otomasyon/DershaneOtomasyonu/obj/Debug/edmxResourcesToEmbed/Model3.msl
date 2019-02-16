@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="projeModel2StoreContainer" CdmEntityContainer="projeEntities5">
+    <FunctionImportMapping FunctionImportName="SP_Ogrenci_Ara" FunctionName="projeModel2.Store.SP_Ogrenci_Ara">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="projeModel2.SP_Ogrenci_Ara_Result">
+          <ScalarProperty Name="Öğrenci_Numarası" ColumnName="Öğrenci_Numarası" />
+          <ScalarProperty Name="Öğrenci_İsmi" ColumnName="Öğrenci_İsmi" />
+          <ScalarProperty Name="Öğrenci_Soyadı" ColumnName="Öğrenci_Soyadı" />
+          <ScalarProperty Name="Seviye" ColumnName="Seviye" />
+          <ScalarProperty Name="Sınıf" ColumnName="Sınıf" />
+          <ScalarProperty Name="Alanı" ColumnName="Alanı" />
+          <ScalarProperty Name="Öğrenci_TC" ColumnName="Öğrenci_TC" />
+          <ScalarProperty Name="Öğrenci_Telefon" ColumnName="Öğrenci_Telefon" />
+          <ScalarProperty Name="Öğrenci_Adres" ColumnName="Öğrenci_Adres" />
+          <ScalarProperty Name="Okulu" ColumnName="Okulu" />
+          <ScalarProperty Name="Kayıt_Tarihi" ColumnName="Kayıt_Tarihi" />
+          <ScalarProperty Name="Doğum_Tarihi" ColumnName="Doğum_Tarihi" />
+          <ScalarProperty Name="Alınan_Ücret" ColumnName="Alınan_Ücret" />
+          <ScalarProperty Name="Veli_İsmi" ColumnName="Veli_İsmi" />
+          <ScalarProperty Name="Veli_Soyismi" ColumnName="Veli_Soyismi" />
+          <ScalarProperty Name="Veli_TC" ColumnName="Veli_TC" />
+          <ScalarProperty Name="Veli_Telefon" ColumnName="Veli_Telefon" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

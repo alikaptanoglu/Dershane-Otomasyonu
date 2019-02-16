@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="projeModel1StoreContainer" CdmEntityContainer="projeEntities4">
+    <FunctionImportMapping FunctionImportName="SP_Ogretmen_Ara" FunctionName="projeModel1.Store.SP_Ogretmen_Ara">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="projeModel1.SP_Ogretmen_Ara_Result">
+          <ScalarProperty Name="Sıra" ColumnName="Sıra" />
+          <ScalarProperty Name="İsim" ColumnName="İsim" />
+          <ScalarProperty Name="Soyisim" ColumnName="Soyisim" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="Maaş" ColumnName="Maaş" />
+          <ScalarProperty Name="TC" ColumnName="TC" />
+          <ScalarProperty Name="Kayıt_Tarihi" ColumnName="Kayıt_Tarihi" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

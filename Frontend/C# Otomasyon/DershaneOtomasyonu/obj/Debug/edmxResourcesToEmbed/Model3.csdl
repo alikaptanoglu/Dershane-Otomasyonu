@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="projeModel2" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="projeEntities5" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="SP_Ogrenci_Ara" ReturnType="Collection(projeModel2.SP_Ogrenci_Ara_Result)">
+      <Parameter Name="kelime" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="SP_Ogrenci_Ara_Result">
+    <Property Type="Int32" Name="Öğrenci_Numarası" Nullable="false" />
+    <Property Type="String" Name="Öğrenci_İsmi" Nullable="true" MaxLength="20" />
+    <Property Type="String" Name="Öğrenci_Soyadı" Nullable="true" MaxLength="20" />
+    <Property Type="String" Name="Seviye" Nullable="true" MaxLength="2" />
+    <Property Type="String" Name="Sınıf" Nullable="true" MaxLength="1" />
+    <Property Type="String" Name="Alanı" Nullable="true" MaxLength="3" />
+    <Property Type="String" Name="Öğrenci_TC" Nullable="false" MaxLength="11" />
+    <Property Type="String" Name="Öğrenci_Telefon" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="Öğrenci_Adres" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Okulu" Nullable="false" MaxLength="30" />
+    <Property Type="DateTime" Name="Kayıt_Tarihi" Nullable="true" />
+    <Property Type="DateTime" Name="Doğum_Tarihi" Nullable="false" />
+    <Property Type="Int32" Name="Alınan_Ücret" Nullable="true" />
+    <Property Type="String" Name="Veli_İsmi" Nullable="false" MaxLength="30" />
+    <Property Type="String" Name="Veli_Soyismi" Nullable="false" MaxLength="30" />
+    <Property Type="String" Name="Veli_TC" Nullable="true" MaxLength="11" />
+    <Property Type="String" Name="Veli_Telefon" Nullable="true" MaxLength="10" />
+  </ComplexType>
+</Schema>

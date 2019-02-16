@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="projeModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="projeEntities2" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="SP_Ogrenci_Deneme_Ara" ReturnType="Collection(projeModel.SP_Ogrenci_Deneme_Ara_Result)">
+      <Parameter Name="deneme_seviye" Mode="In" Type="String" />
+      <Parameter Name="deneme_tarih" Mode="In" Type="DateTime" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="SP_Ogrenci_Deneme_Ara_Result">
+    <Property Type="Int32" Name="Öğrenci_Numarası" Nullable="true" />
+    <Property Type="String" Name="İsmi" Nullable="true" MaxLength="20" />
+    <Property Type="String" Name="Soyismi" Nullable="true" MaxLength="20" />
+    <Property Type="String" Name="Alanı" Nullable="true" MaxLength="3" />
+    <Property Type="Double" Name="Türkçe_Net" Nullable="true" />
+    <Property Type="Double" Name="Sosyal_Net" Nullable="true" />
+    <Property Type="Double" Name="Matematik_Net" Nullable="true" />
+    <Property Type="Double" Name="Fen_Net" Nullable="true" />
+    <Property Type="Double" Name="YGS_1" Nullable="true" />
+    <Property Type="Double" Name="YGS_2" Nullable="true" />
+    <Property Type="Double" Name="YGS_3" Nullable="true" />
+    <Property Type="Double" Name="YGS_4" Nullable="true" />
+    <Property Type="Double" Name="YGS_5" Nullable="true" />
+    <Property Type="Double" Name="YGS_6" Nullable="true" />
+  </ComplexType>
+</Schema>

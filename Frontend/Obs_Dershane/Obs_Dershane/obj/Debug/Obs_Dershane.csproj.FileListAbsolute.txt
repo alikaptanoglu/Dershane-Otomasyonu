@@ -1,0 +1,167 @@
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\csc.exe
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\csc.exe.config
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\csc.rsp
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\csi.exe
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\csi.exe.config
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\csi.rsp
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.AppContext.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Console.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Security.Claims.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\vbc.exe
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\vbc.exe.config
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\vbc.rsp
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\Obs_Dershane.dll.config
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\Obs_Dershane.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\Obs_Dershane.pdb
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\obj\Debug\Obs_Dershane.csprojResolveAssemblyReference.cache
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\obj\Debug\Obs_Dershane.csproj.CoreCompileInputs.cache
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\obj\Debug\Obs_Dershane.dll
+C:\Users\Hamza TAŞ\source\repos\Obs_Dershane\Obs_Dershane\obj\Debug\Obs_Dershane.pdb
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\csc.exe
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\csc.exe.config
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\csc.rsp
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\csi.exe
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\csi.exe.config
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\csi.rsp
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.AppContext.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Console.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.IO.Compression.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.IO.Pipes.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Security.Claims.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Threading.Thread.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.ValueTuple.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Xml.XPath.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\vbc.exe
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\vbc.exe.config
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\vbc.rsp
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\VBCSCompiler.exe
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\Obs_Dershane.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\Obs_Dershane.pdb
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\obj\Debug\Obs_Dershane.csprojResolveAssemblyReference.cache
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\obj\Debug\Obs_Dershane.dll
+C:\Users\erdem\Desktop\Obs_Dershane\Obs_Dershane\obj\Debug\Obs_Dershane.pdb
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\csc.exe
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\csc.exe.config
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\csc.rsp
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\csi.exe
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\csi.exe.config
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\csi.rsp
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.AppContext.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Console.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.IO.Compression.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.IO.Pipes.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Security.Claims.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Threading.Thread.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.ValueTuple.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Xml.XPath.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\vbc.exe
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\vbc.exe.config
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\vbc.rsp
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\VBCSCompiler.exe
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\Obs_Dershane.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\Obs_Dershane.pdb
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\obj\Debug\Obs_Dershane.csprojResolveAssemblyReference.cache
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\obj\Debug\Obs_Dershane.dll
+C:\Users\erdem\Desktop\Grup 14\Obs_Dershane\Obs_Dershane\obj\Debug\Obs_Dershane.pdb
